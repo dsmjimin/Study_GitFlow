@@ -3,4 +3,4 @@
 (Release test : v0.1.0)
 (Feature test : Header) + (HotFix test : )
 (Feature test : Add Menu)
-(Feature test : Add Article1 + {Photo})
+(Feature test : Add Article2)
